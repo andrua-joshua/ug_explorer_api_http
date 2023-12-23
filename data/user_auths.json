@@ -1,0 +1,25 @@
+[
+    {
+        "id" : "fhkdfjks",
+        "password" : "user_password",
+        "logedin" : false
+    },
+
+    {
+        "id" : "user_id",
+        "password" : "user_password",
+        "logedin" : false
+    },
+
+    {
+        "id" : "user_id",
+        "password" : "user_password",
+        "logedin" : false
+    },
+
+    {
+        "id" : "user_id",
+        "password" : "user_password",
+        "logedin" : false
+    }
+]

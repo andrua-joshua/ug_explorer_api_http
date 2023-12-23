@@ -1,0 +1,40 @@
+[
+        {
+            "id": "thedfjdfndf",
+            "name": "Mt. Rwenzori",
+            "category": "Mountains",
+            "history": "this feature is something that has made its ways  from very far.",
+            "description": "Just some simple description here",
+            "images": [
+                "img.jpg",
+                "img.jpg",
+                "img.jpg"
+            ]
+        },
+
+        {
+            "id": "taqedfjdfdff",
+            "name": "Mt. Mufimbiro",
+            "category": "Mountains",
+            "history": "this feature is something that has made its ways  from very far.",
+            "description": "Just some simple description here",
+            "images": [
+                "img.jpg",
+                "img.jpg",
+                "img.jpg"
+            ]
+        },
+
+        {
+            "id": "taqedfjd476iew",
+            "name": "Mt. Lambo",
+            "category": "Mountains",
+            "history": "this feature is something that has made its ways  from very far.",
+            "description": "Just some simple description here",
+            "images": [
+                "img.jpg",
+                "img.jpg",
+                "img.jpg"
+            ]
+        }
+]
